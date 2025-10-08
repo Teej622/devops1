@@ -1,6 +1,7 @@
-.DS_Store
+YY.DS_Store
 .idea
 *.log
 tmp/
 
 credentials.yml
+pytest.py
