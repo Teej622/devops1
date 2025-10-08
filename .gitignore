@@ -3,5 +3,5 @@ YY.DS_Store
 *.log
 tmp/
 
-credentials.yml
-pytest.py
+lauz0193-credentials.yml
+lauz0193-pytest.py
